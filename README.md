@@ -20,7 +20,7 @@
 &emsp;
 &emsp;
 
-*Learn the how to get started with Smart UI testing with Selenium Node.JS on the LambdaTest platform.*
+*Learn the how to get started with Smart UI testing with Selenium Ruby on the LambdaTest platform.*
 
 
 [<img height="58" width="200" src="https://user-images.githubusercontent.com/70570645/171866795-52c11b49-0728-4229-b073-4b704209ddde.png">](https://accounts.lambdatest.com/register?utm_source=github&utm_medium=repo&utm_campaign=playwright-sample)
@@ -81,7 +81,7 @@ options.platform_name = "Windows 10"
 lt_options = {};
 lt_options[:username] = "#{USERNAME}";
 lt_options[:accessKey] = "#{ACCESS_KEY}";
-lt_options[:project] = "Ruby SDK DOM";
+lt_options[:project] = "Ruby Test";
 lt_options[:sessionName] = "Ruby Test";
 lt_options[:build] = "Ruby Job";
 lt_options[:w3c] = true;
