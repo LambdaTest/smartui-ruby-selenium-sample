@@ -100,9 +100,9 @@ Once, the configuration file will be created, you will be seeing the default con
       [
         360
       ]
-    ], // Full Page screenshots are captured by default
-    "waitForPageRender": 50000, // Optional (Should only be used in case of websites which take more than 30s to load)
-    "waitForTimeout": 1000 //Optional (Should only be used in case lazy-loading/async components are present )
+    ],
+    "waitForPageRender": 50000, 
+    "waitForTimeout": 1000
 
   }
 }
