@@ -20,7 +20,6 @@ lt_options[:plugin] = "ruby-ruby";
 options.add_option('LT:Options', lt_options);
 
 driver = Selenium::WebDriver.for(:remote,
-# :url => "https://stage-hub.lambdatestinternal.com/wd/hub",
 :url => "https://hub.lambdatest.com/wd/hub",
 :capabilities => options)
 begin
