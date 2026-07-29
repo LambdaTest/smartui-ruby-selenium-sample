@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@lambdatest/smartui-cli": "^2.0.6"
+    "@lambdatest/smartui-cli": "^4.1.77"
   }
 }
