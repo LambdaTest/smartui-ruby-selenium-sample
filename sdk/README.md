@@ -12,7 +12,7 @@ This folder contains the SmartUI SDK integration examples for Selenium Ruby.
 
 1. Install dependencies:
    ```bash
-   npm install @lambdatest/smartui-cli
+   npm install @lambdatest/smartui-cli@latest
    gem install lambdatest-selenium-driver selenium-webdriver
    ```
 
